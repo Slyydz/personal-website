@@ -2594,6 +2594,16 @@ input, select, textarea {
 		position: relative;
 	}
 
+	.resume{
+		width: 50em;
+		height: 60em;
+	}
+
+	#yerp{
+		margin-bottom: 100px;
+	}
+
+
 		.image img {
 			display: block;
 		}
