@@ -115,6 +115,18 @@ input, select, textarea {
 
 /* Type */
 
+.stack{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.svg{
+	width: 150px;
+	height: 150px;
+	padding-right: 20px;
+	padding-bottom: 50px;
+}
+
 	html {
 		font-size: 16pt;
 	}
